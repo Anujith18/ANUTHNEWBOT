@@ -2040,15 +2040,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/Trexofficialhub")
+            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/+uTv52VMxNVtlNjc1")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/TrexRequests"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/+OXOBPSHFpQhjZWNl")
+            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/AlluTvSerialGroup"),
+            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/AlluTvSerials")
        ],[
-            InlineKeyboardButton('• Support •', url="https://t.me/TrexSupportchatBot"),
+            InlineKeyboardButton('• Support •', url="https://t.me/AllMalayalamSupportGroup"),
             InlineKeyboardButton('• 18+ ᴍᴏᴠɪᴇ •', url="https://t.me/+75bJ7P63RAtiMjJl")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ •', url="https://t.me/+rUz6lcdsab01ZDJl")
+            InlineKeyboardButton('• ᴀɴɪᴍᴇ •', url="https://t.me/AlluTvSerials")
        ],[ 
             InlineKeyboardButton('• ʙᴀᴄᴋ •', callback_data='start')
         ]]
